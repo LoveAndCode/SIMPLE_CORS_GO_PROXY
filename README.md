@@ -14,9 +14,9 @@ LOCAL_PORT=
 # CORS Allow Origin Information. It is Client host information (i.e https://192.168.93.1:4000)
 ACCESS_CONTROL_ALLOWS_ORIGIN=
 # Credentials Flag for Sharing Cookie between origin resource server, Must Set as true
-WITH_CREDENTIALS={The flag of share or not cookie value}
+WITH_CREDENTIALS=
 # Optional, Session Cookie Name In Resource Server (If, not using cookie, let that empty)
-SESSION_COOKIE_NAME={Optional, Session Cookie name}
+SESSION_COOKIE_NAME=
 # SSL Key File Path For Running Proxy Server as Https
 SSL_KEY_PATH=
 # SSL Cert File Path For Running Proxy Server as Https
