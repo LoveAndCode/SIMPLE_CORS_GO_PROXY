@@ -18,9 +18,9 @@ WITH_CREDENTIALS={The flag of share or not cookie value}
 # Optional, Session Cookie Name In Resource Server (If, not using cookie, let that empty)
 SESSION_COOKIE_NAME={Optional, Session Cookie name}
 # SSL Key File Path For Running Proxy Server as Https
-SSL_KEY_PATH={REQUIRE, ssl key file path}
+SSL_KEY_PATH=
 # SSL Cert File Path For Running Proxy Server as Https
-SSL_CERT_PATH={REQUIRE, ssl cert file path}
+SSL_CERT_PATH=
 ```
 
 
